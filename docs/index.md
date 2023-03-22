@@ -1,85 +1,61 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Brandon Green
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+### Dallas, Tx
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="gre16012@byui.edu">gre16012@byui.edu</a>
+| <a href="www.linkedin.com/in/
+brandon-g-13b61b80">LinkedIn</a>
+| (469) 323 0319</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected April 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+'GPA: 3.61'
+- Minor: Data Science
+-Lean Six Sigma Green Belt Certification
 
 
-## Service and Work History
+## Professional Experience
 
-`2025-2027`
-__Math Tutor__, LDSBC
+### Raytheon Missiles and Defense (RMD)
 
+`June 2022 - Current`
+__Competition Advocate Intern__, Remote
 
-`2023-2025`
-__Service Missionary__, South Africa
+- Automated the creation of documents with variable information and email composition with Excel macro’s; resulted in up to 2 hours of time savings per day.
+- Selected from 18 interns to present internship projects to the President of RMD
+- Supported Competition Advocates in their competitions
 
+### Pop Zero
+
+`July 2020 - January 2022`
+__Operations Specialist (Intern to Employee)__, Dallas, Texas
+
+- Managed fulfillment for ecommerce sales
+- Responsible for distributor related fulfillment 2-3 days per week
+- Arranged transportation of product and raw materials via Less Than Truckload (LTL) or Full Truck Load (FTL) modes, determined by pallet count
+- Forecasted raw materials, finished goods, and inventory requirements using internal MRP and Reorder Point systems on a weekly basis
+- Purchased inventory goods for production
+- Month end reconciliation of inventory including material waste using excel templates and Unleashed (Inventory Management System)
+- Developed excel reports and templates to provide insight into product movement
+- Completed special projects as assigned by management
+- Worked 20 hours a week during school semesters, 40 hours during summer
+
+## Volunteer and Other Experience
+
+### The Church of Jesus Christ of Latter-Day Saints
+`March 2017 - March 2019`
+__Full-Time Ambassador__, Bengaluru, India
+-Responsible for weekly training of 6-10 other representatives regarding efficient use of time and improvement of teaching skills
+-Conducted one-on-one training with each representative once every 6 weeks
 
 
 <!-- ### Footer

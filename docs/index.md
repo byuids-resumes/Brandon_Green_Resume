@@ -1,8 +1,9 @@
 ---
 layout: resume
-title: Brandon Green
+title: Brandon Green's Resume
 ---
-### Dallas, Tx
+# Brandon Green
+Dallas, Tx
 
 <div id="webaddress">
 <a href="gre16012@byui.edu">gre16012@byui.edu</a>

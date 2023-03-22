@@ -9,7 +9,7 @@ Dallas, Tx
 <a href="gre16012@byui.edu">gre16012@byui.edu</a>
 | <a href="www.linkedin.com/in/
 brandon-g-13b61b80">LinkedIn</a>
-| (469) 323 0319</a>
+| (469) 323 0319
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -21,7 +21,7 @@ brandon-g-13b61b80">LinkedIn</a>
 __Brigham Young University - Idaho__, Rexburg, ID
 'GPA: 3.61'
 - Minor: Data Science
--Lean Six Sigma Green Belt Certification
+- Lean Six Sigma Green Belt Certification
 
 
 ## Professional Experience
@@ -55,8 +55,8 @@ __Operations Specialist (Intern to Employee)__, Dallas, Texas
 ### The Church of Jesus Christ of Latter-Day Saints
 `March 2017 - March 2019`
 __Full-Time Ambassador__, Bengaluru, India
--Responsible for weekly training of 6-10 other representatives regarding efficient use of time and improvement of teaching skills
--Conducted one-on-one training with each representative once every 6 weeks
+- Responsible for weekly training of 6-10 other representatives regarding efficient use of time and improvement of teaching skills
+- Conducted one-on-one training with each representative once every 6 weeks
 
 
 <!-- ### Footer

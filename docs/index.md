@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Brandon Green's Resume
 ---
 # Brandon Green
@@ -17,30 +17,57 @@ brandon-g-13b61b80">LinkedIn</a>
 
 ## Education
 
-`Expected April 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
-`GPA: 3.61`
+<p style="text-align:left;">
+   __BYU-Idaho B.S. | Business Management Operations__
+    <span style="float:right;">
+        Rexburg, ID
+    </span>
+</p>
 
-- Minor: Data Science
-- Lean Six Sigma Green Belt Certification
+<p style="text-align:left;">
+   - Minor: Data Science
+    <span style="float:right;">
+        `Expected April 2023`
+    </span>
+</p>
+<p style="text-align:left;">
+   - Lean Six Sigma Green Belt Certification
+    <span style="float:right;">
+        `GPA: 3.61`
+    </span>
+</p>
 
 
 ## Professional Experience
 
-### Raytheon Missiles and Defense (RMD)
-
-`June 2022 - Current`
-__Competition Advocate Intern__, Remote
-
+<p style="text-align:left;">
+   __Raytheon Missiles and Defense (RMD)__
+    <span style="float:right;">
+    Remote
+    </span>
+</p>
+<p style="text-align:left;">
+   __Competition Advocate Intern__
+    <span style="float:right;">
+    `June 2022 - Current`
+    </span>
+</p>
 - Automated the creation of documents with variable information and email composition with Excel macro’s; resulted in up to 2 hours of time savings per day.
 - Selected from 18 interns to present internship projects to the President of RMD
 - Supported Competition Advocates in their competitions
 
-### Pop Zero
-
-`July 2020 - January 2022`
-__Operations Specialist (Intern to Employee)__, Dallas, Texas
-
+<p style="text-align:left;">
+   __Pop Zero__
+    <span style="float:right;">
+    Dallas, Texas
+    </span>
+</p>
+<p style="text-align:left;">
+   __Operations Specialist (Intern to Employee)__
+    <span style="float:right;">
+    `July 2020 - January 2022`
+    </span>
+</p>
 - Managed fulfillment for ecommerce sales
 - Responsible for distributor related fulfillment 2-3 days per week
 - Arranged transportation of product and raw materials via Less Than Truckload (LTL) or Full Truck Load (FTL) modes, determined by pallet count
@@ -53,10 +80,18 @@ __Operations Specialist (Intern to Employee)__, Dallas, Texas
 
 ## Volunteer and Other Experience
 
-### The Church of Jesus Christ of Latter-Day Saints
-`March 2017 - March 2019`
-__Full-Time Ambassador__, Bengaluru, India
-
+<p style="text-align:left;">
+   __The Church of Jesus Christ of Latter-Day Saints__
+    <span style="float:right;">
+    Bengaluru, India
+    </span>
+</p>
+<p style="text-align:left;">
+   __Full-Time Ambassador__
+    <span style="float:right;">
+    `March 2017 - March 2019`
+    </span>
+</p>
 - Responsible for weekly training of 6-10 other representatives regarding efficient use of time and improvement of teaching skills
 - Conducted one-on-one training with each representative once every 6 weeks
 

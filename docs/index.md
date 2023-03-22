@@ -19,7 +19,8 @@ brandon-g-13b61b80">LinkedIn</a>
 
 `Expected April 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
-'GPA: 3.61'
+`GPA: 3.61`
+
 - Minor: Data Science
 - Lean Six Sigma Green Belt Certification
 
@@ -55,6 +56,7 @@ __Operations Specialist (Intern to Employee)__, Dallas, Texas
 ### The Church of Jesus Christ of Latter-Day Saints
 `March 2017 - March 2019`
 __Full-Time Ambassador__, Bengaluru, India
+
 - Responsible for weekly training of 6-10 other representatives regarding efficient use of time and improvement of teaching skills
 - Conducted one-on-one training with each representative once every 6 weeks
 
